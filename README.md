@@ -14,7 +14,7 @@ In other words, we are trying to make a deterministic font behave as if somebody
 
 ## Quick Start
 
-Jortype requires Python 3.10 or later and has no mandatory
+Jortype requires Python 3.9 or later and has no mandatory
 third-party dependencies.
 
 Clone the repository:
