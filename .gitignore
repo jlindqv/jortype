@@ -1,0 +1,15 @@
+# IDE/editor-specific files
+.vscode/
+.idea/
+
+# macOS metadata
+.DS_Store
+
+# Windows metadata
+Thumbs.db
+
+# Temp and logfiles
+*.log
+
+# Pycache
+**/__pycache__/

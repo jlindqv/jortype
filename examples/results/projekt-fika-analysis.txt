@@ -1,0 +1,5269 @@
+FONT ANALYSIS REPORT
+
+Source file : ./examples/Projekt-Fika.txt
+Generated   : 2026-11-04 16:20:45.810397
+
+==================================================
+LETTERS
+==================================================
+
+Count  : 12800
+Unique : 28
+
+E 1347
+A 1274
+N 1180
+T 1180
+R 994
+I 671
+S 670
+L 598
+D 592
+O 501
+K 459
+M 441
+G 430
+V 308
+H 254
+F 248
+U 244
+Ä 242
+P 231
+Å 204
+Ö 191
+B 184
+C 133
+J 96
+Y 74
+Z 35
+X 18
+É 1
+
+==================================================
+WORDS
+==================================================
+
+Count  : 2420
+Unique : 937
+
+EN                            94
+DET                           58
+ATT                           54
+OCH                           51
+VI                            44
+NI                            38
+ZOG                           35
+PÅ                            33
+HADE                          32
+ÄR                            30
+ETT                           28
+FÖR                           27
+HAR                           26
+I                             25
+HAN                           24
+VAR                           24
+MED                           23
+SOM                           23
+TILL                          22
+MEN                           20
+AV                            16
+DEN                           16
+DE                            15
+JAG                           15
+OM                            14
+KAN                           13
+BLIP                          12
+DÅ                            12
+HUR                           12
+INTE                          12
+SKULLE                        12
+BEHÖVER                       11
+MARIANNE                      11
+SA                            11
+VAD                           11
+JA                            10
+CIVILISATION                  9
+FÅR                           9
+GÖRAN                         9
+SIG                           9
+FRÅN                          8
+HÄR                           8
+KAPITEL                       8
+MÅSTE                         8
+NÄR                           8
+TRE                           8
+EFTER                         7
+ER                            7
+NÅGRA                         7
+SKA                           7
+SÅ                            7
+UNGEFÄR                       7
+BLANKETT                      6
+DETTA                         6
+FÖRSTA                        6
+KOMMUNENS                     6
+SVENSKA                       6
+TA                            6
+TITTADE                       6
+TOG                           6
+UT                            6
+UTAN                          6
+VARA                          6
+ANSÖKAN                       5
+BLEV                          5
+DÄR                           5
+ETABLERA                      5
+EXPEDITIONEN                  5
+FIKA                          5
+FRAM                          5
+FRÅGADE                       5
+FÅ                            5
+FÅTT                          5
+GICK                          5
+GÅ                            5
+HON                           5
+IN                            5
+KOMMER                        5
+NEJ                           5
+NÄSTAN                        5
+ORGANISATIONSNUMMER           5
+SÅG                           5
+UNDER                         5
+UTVECKLAT                     5
+VECKOR                        5
+ÖNSKAR                        5
+ALLEMANSRÄTTEN                4
+ANNAN                         4
+BARA                          4
+BRA                           4
+BÖRJADE                       4
+DELEGATIONEN                  4
+DEM                           4
+FYRA                          4
+GALAKTISKA                    4
+HELA                          4
+HETTE                         4
+KOMMUNAL                      4
+KOMMUNHUSET                   4
+LÅTER                         4
+MAN                           4
+MOT                           4
+NICKADE                       4
+NU                            4
+NÄMNDEN                       4
+NÅGOT                         4
+PLANET                        4
+PROBLEM                       4
+REDAN                         4
+SAMTLIGA                      4
+SAMVÄLDET                     4
+SINA                          4
+SITT                          4
+SYSTEM                        4
+SÄRSKILT                      4
+TEXTEN                        4
+VERKAR                        4
+VÅR                           4
+ÅR                            4
+AMBASSAD                      3
+BEHÖVDE                       3
+BEROR                         3
+BESLUT                        3
+BLIR                          3
+BÖRJAR                        3
+DAGS                          3
+DOKUMENT                      3
+EXPEDITIONENS                 3
+FICK                          3
+FORTFARANDE                   3
+FUNGERAR                      3
+FYLLA                         3
+FÖRST                         3
+GENOM                         3
+GÖRA                          3
+IT                            3
+JU                            3
+KAFFE                         3
+KARIN                         3
+KOMMUNALA                     3
+KOMMUNEN                      3
+LANDNINGSPLATSEN              3
+LENA                          3
+LOG                           3
+LÅNGSAMT                      3
+METER                         3
+MINUTER                       3
+MYNDIGHET                     3
+MÄNNISKOR                     3
+MÄNNISKORNA                   3
+MÄNSKLIGA                     3
+MÖTE                          3
+NOG                           3
+NÅGON                         3
+PRATA                         3
+RYMDSKEPP                     3
+SEDAN                         3
+SEX                           3
+SIN                           3
+SISTA                         3
+SKRATTADE                     3
+SKREV                         3
+STORT                         3
+SUPPORTEN                     3
+SVENSK                        3
+SYSTEMET                      3
+TID                           3
+TILLFÄLLIGT                   3
+TILLSTÅND                     3
+TRÄFFA                        3
+UPP                           3
+VID                           3
+VÄL                           3
+VÅRT                          3
+ÄNDÅ                          3
+ÄNTLIGEN                      3
+ÖGON                          3
+ÖPPNAT                        3
+ÖVER                          3
+ALDRIG                        2
+ALLDELES                      2
+ALLT                          2
+ANDRA                         2
+ANSÖKA                        2
+ANVÄNDER                      2
+AVANCERAT                     2
+BESLUTET                      2
+BJÖRKSELE                     2
+BLANKETTER                    2
+BLI                           2
+BYGGA                         2
+BYGGLOV                       2
+BÖRJAT                        2
+DAGVATTEN                     2
+DELEGATION                    2
+DENNA                         2
+DETALJERAD                    2
+DIPLOMATISKA                  2
+DISKUTERA                     2
+DOCK                          2
+DÄRFÖR                        2
+EGEN                          2
+EMOT                          2
+FEMHUNDRA                     2
+FORTSATTE                     2
+FRÅGA                         2
+FÖRBINDELSER                  2
+FÖRENING                      2
+FÖRKLARADE                    2
+FÖRSTÅ                        2
+FÖRSTÅR                       2
+FÖRVALTNING                   2
+GENOMFÖRAS                    2
+GOD                           2
+GÄLLER                        2
+GÅNGEN                        2
+HA                            2
+HANDLINGARNA                  2
+HANS                          2
+HANTERA                       2
+HJÄLPER                       2
+HÖRT                          2
+INNAN                         2
+INTERGALAKTISK                2
+INTERGALAKTISKA               2
+INTERNA                       2
+JAHA                          2
+KLOCKAN                       2
+KONTAKTA                      2
+KONTAKTPERSON                 2
+KORT                          2
+KRÄVER                        2
+KUNDE                         2
+KVADRATMETER                  2
+KÖRDE                         2
+LANDADE                       2
+LANDNINGSPLATS                2
+LEDAMOT                       2
+LILLA                         2
+LITEN                         2
+LOKALA                        2
+LÅNG                          2
+MANNEN                        2
+MENAR                         2
+MORGON                        2
+MÄRKLIG                       2
+MÅNGA                         2
+NAMN                          2
+NATUREN                       2
+NER                           2
+NY                            2
+NÄRLIGGANDE                   2
+NÄSTA                         2
+OCKSÅ                         2
+OMFATTAR                      2
+ORDFÖRANDEN                   2
+PERMANENT                     2
+PERSONALRUMMET                2
+PERSONNUMMER                  2
+PLOCKA                        2
+PRECIS                        2
+PROTOKOLL                     2
+REDOGÖRELSE                   2
+RESULTATET                    2
+RIKTIGT                       2
+RINGDE                        2
+RÄTT                          2
+SAMLA                         2
+SAMMANTRÄDE                   2
+SENARE                        2
+SJU                           2
+SJUTTON                       2
+SJÄLV                         2
+SKEPP                         2
+SKEPPET                       2
+SKOG                          2
+SLUT                          2
+SMÅKAKORNA                    2
+SOCIAL                        2
+STOR                          2
+STORA                         2
+STUDIE                        2
+SVAMPAR                       2
+SVARADE                       2
+SÄGA                          2
+TACK                          2
+TAGIT                         2
+TELEFONEN                     2
+TIDIGARE                      2
+TROR                          2
+TYCKTE                        2
+TYST                          2
+TÄNKTE                        2
+TÅLAMOD                       2
+UNDANTAG                      2
+UNDERSÖKA                     2
+UNDERSÖKNING                  2
+UTOMJORDINGARNA               2
+VARFÖR                        2
+VATTEN                        2
+VEM                           2
+VET                           2
+VETA                          2
+VIDARE                        2
+VILKEN                        2
+VILL                          2
+ÄRADE                         2
+ÄRENDE                        2
+AKTIV                         1
+ALLA                          1
+ALLTID                        1
+ANALYSERA                     1
+ANALYSERADE                   1
+ANALYSERAT                    1
+ANDETAG                       1
+ANGE                          1
+ANLITA                        1
+ANNAT                         1
+ANSVARAR                      1
+ANSVARET                      1
+ANTECKNA                      1
+ANTECKNADE                    1
+ANTECKNING                    1
+ANTECKNINGSBLOCK              1
+ANTENNER                      1
+APPARATER                     1
+ARBETAT                       1
+ARBETEN                       1
+ARBETSUPPGIFTER               1
+ARMAR                         1
+ATMOSFÄRISK                   1
+AVANCERADE                    1
+AVGÖRA                        1
+AVSER                         1
+BAKLÄNGES                     1
+BANKKONTO                     1
+BASERAS                       1
+BEHANDLAS                     1
+BEKYMRAD                      1
+BEMANNAD                      1
+BERÄKNAD                      1
+BERÄTTADE                     1
+BESATT                        1
+BESLUTSFATTANDE               1
+BESLUTSFORMULERINGARNA        1
+BESLUTSPROCESSEN              1
+BESTRAFFNING                  1
+BESTÄLLT                      1
+BESTÄMDE                      1
+BESTÄMMA                      1
+BESÖKA                        1
+BESÖKARE                      1
+BESÖKET                       1
+BESÖKT                        1
+BETRAKTADE                    1
+BETRÄDA                       1
+BETYDER                       1
+BETYDLIGT                     1
+BIBLIOTEKET                   1
+BILARNA                       1
+BILDER                        1
+BILEN                         1
+BIOLOGISKA                    1
+BIOLOGISKT                    1
+BJÖD                          1
+BLAND                         1
+BLANDAT                       1
+BLANKETTEN                    1
+BLINKADE                      1
+BLINKANDE                     1
+BLIVIT                        1
+BLOCK                         1
+BLÄDDRA                       1
+BLÅGRÖNA                      1
+BOKA                          1
+BORDET                        1
+BRAK                          1
+BRED                          1
+BREDVID                       1
+BRÄNT                         1
+BULLERNIVÅERNA                1
+BYGGAS                        1
+BYGGHERRE                     1
+BYGGLOVSHANDLÄGGARE           1
+BYGGNADEN                     1
+BYGGNADSNÄMNDEN               1
+BYGGNADSNÄMNDENS              1
+BYGGT                         1
+BYRÅKRATI                     1
+BÄNK                          1
+BÄST                          1
+BÄSTA                         1
+BÖR                           1
+BÖRJA                         1
+BÖRJAN                        1
+CENTRAL                       1
+CERTIFIERAD                   1
+DAG                           1
+DAGAR                         1
+DAGEN                         1
+DAGVATTENUTREDNING            1
+DAGVATTNET                    1
+DANSBANDSMUSIK                1
+DATORER                       1
+DATORSKÄRM                    1
+DATUM                         1
+DATUMET                       1
+DEL                           1
+DELAR                         1
+DELTA                         1
+DENNE                         1
+DERAS                         1
+DETSAMMA                      1
+DIAMETER                      1
+DIPLOMATISK                   1
+DIREKT                        1
+DISKUSSION                    1
+DISKUTERAT                    1
+DJUPT                         1
+DNA                           1
+DOKUMENTEN                    1
+DOKUMENTET                    1
+DOVT                          1
+DRACK                         1
+DRAGIT                        1
+DRÄKTER                       1
+DU                            1
+DÄREMOT                       1
+DÅLIG                         1
+DÖRRARNA                      1
+EFFEKTIVA                     1
+EFTERMIDDAGSFIKAT             1
+EGET                          1
+ELEKTRONISK                   1
+ELLER                         1
+ENDAST                        1
+ENERGIPRODUKTION              1
+ENSKILD                       1
+ERT                           1
+ETABLERATS                    1
+EVENTUELLT                    1
+FANTASTISKT                   1
+FASTIGHETSBETECKNING          1
+FASTSATTA                     1
+FATTADES                      1
+FEM                           1
+FIKAT                         1
+FINNS                         1
+FJORTON                       1
+FJÄRRAN                       1
+FLADDERMUSPOPULATIONEN        1
+FLERA                         1
+FLESTA                        1
+FORM                          1
+FORMULERINGEN                 1
+FORSKAREN                     1
+FORSKNING                     1
+FORTSÄTTA                     1
+FRAMTIDSPROJEKT               1
+FRAMÅT                        1
+FRED                          1
+FRI                           1
+FRIHET                        1
+FRITIDSFÖRVALTNING            1
+FRITT                         1
+FRUSTRERADE                   1
+FRÅGAN                        1
+FUKTREGLERING                 1
+FULLMÄKTIGE                   1
+FUNDERADE                     1
+FYLLER                        1
+FYRTIO                        1
+FÄLT                          1
+FÄRG                          1
+FÖLJA                         1
+FÖNSTRET                      1
+FÖRBERETT                     1
+FÖRBINDELSE                   1
+FÖRDELA                       1
+FÖREDROG                      1
+FÖREGÅENDE                    1
+FÖREKOM                       1
+FÖRESLOG                      1
+FÖRKLARAR                     1
+FÖRKÄRLEK                     1
+FÖRMÅGA                       1
+FÖRNUFT                       1
+FÖRSIKTIGT                    1
+FÖRTJUST                      1
+FÖRUTSÄTTNING                 1
+FÖRÄNDRADES                   1
+GALAXER                       1
+GAMMAL                        1
+GANSKA                        1
+GATORNA                       1
+GE                            1
+GEMENSAM                      1
+GEMENSAMT                     1
+GENETISK                      1
+GENOMFÖRA                     1
+GEOLOGISKA                    1
+GEOTEKNISK                    1
+GILTIG                        1
+GJORDE                        1
+GJORT                         1
+GLASBURK                      1
+GLASÖGONEN                    1
+GLÖMT                         1
+GODKÄNDES                     1
+GRAVITATIONSFÄLT              1
+GRAVITATIONSMOTORER           1
+GRÄVA                         1
+GÄLLANDE                      1
+GÄRNA                         1
+GÅR                           1
+HANDEN                        1
+HANDIKAPPARKERINGEN           1
+HANDLA                        1
+HANDLÄGGARE                   1
+HANDLÄGGNINGSTID              1
+HANDSKRIVEN                   1
+HANTERAS                      1
+HEJ                           1
+HELT                          1
+HENNE                         1
+HETA                          1
+HISTORISKT                    1
+HITTADE                       1
+HITTAT                        1
+HJÄLPA                        1
+HOLOGRAFISKA                  1
+HONOM                         1
+HUNNIT                        1
+HURUVIDA                      1
+HUVUDET                       1
+HÄLSADE                       1
+HÄNSYN                        1
+HÄNT                          1
+HÄNVISA                       1
+HÅLLBAR                       1
+HÖGSTE                        1
+HÖJDE                         1
+HÖLL                          1
+ID                            1
+IDEELL                        1
+IDENTIFIERAT                  1
+IDENTITETSSEKVENS             1
+IHOP                          1
+IMPONERAD                     1
+IMPONERANDE                   1
+INBJUDAN                      1
+INBJUDEN                      1
+INDIVIDER                     1
+INFORMELL                     1
+INGA                          1
+INGEN                         1
+INLEDA                        1
+INNEBÄR                       1
+INNEHÖLL                      1
+INSPIRATIONSDAG               1
+INTERNATIONELLT               1
+INTERPLANETÄR                 1
+INTERSTELLÄRA                 1
+INTRESSANT                    1
+INTRESSANTA                   1
+INTRESSERAD                   1
+JAVISST                       1
+JO                            1
+JORDEN                        1
+JULMARKNAD                    1
+KAFFEBRYGGARE                 1
+KAFFEKOPP                     1
+KAFFEKOPPEN                   1
+KAKA                          1
+KAKAN                         1
+KALENDER                      1
+KALLADES                      1
+KARTLAGT                      1
+KLEV                          1
+KOFFEIN                       1
+KOLLAPSA                      1
+KOM                           1
+KOMBINATION                   1
+KOMMUN                        1
+KOMMUNALT                     1
+KOMMUNANSTÄLLD                1
+KOMMUNFULLMÄKTIGE             1
+KOMMUNIKATION                 1
+KOMMUNSTYRELSEN               1
+KOMMUNSTYRELSENS              1
+KOMPLETTERADE                 1
+KOMPLETTERANDE                1
+KOMPLICERADE                  1
+KONFLIKTER                    1
+KONSULT                       1
+KONSUMERA                     1
+KONTAKTEN                     1
+KONTAKTKONTO                  1
+KONTORET                      1
+KONTROLLANSVARIG              1
+KONTROLLERA                   1
+KOPPAR                        1
+KORREKT                       1
+KRYSSRUTOR                    1
+KRÄVS                         1
+KULTUR                        1
+KULTURELLA                    1
+KULTURMILJÖ                   1
+KVAR                          1
+KVINNA                        1
+KVÄLL                         1
+KVÄLLEN                       1
+KYRKKLOCKORNA                 1
+KÄNDE                         1
+KÄRA                          1
+LADE                          1
+LAGER                         1
+LAGSTIFTNING                  1
+LAMPORNA                      1
+LANDNINGEN                    1
+LANDSBYGDEN                   1
+LAPP                          1
+LEDAMÖTER                     1
+LEDAREN                       1
+LIKA                          1
+LJUDLÖST                      1
+LJUSÅR                        1
+LUGNT                         1
+LYCKATS                       1
+LYSANDE                       1
+LYSSNADE                      1
+LYSTE                         1
+LÄMNA                         1
+LÄNGE                         1
+LÄNGS                         1
+LÄRT                          1
+LÄSA                          1
+LÄST                          1
+LÅG                           1
+LÅNA                          1
+LÅNGA                         1
+LÅT                           1
+LÖSA                          1
+MARK                          1
+MARKEN                        1
+MARKUNDERSÖKNING              1
+MARKYTA                       1
+MATRÄTTER                     1
+MEDARBETARE                   1
+MEDBORGARE                    1
+MEDDELANDE                    1
+MEDDELANDEN                   1
+MEDVETANDE                    1
+MELLAN                        1
+MENING                        1
+METALLISK                     1
+MILJONER                      1
+MILJONTALS                    1
+MINDRE                        1
+MODERSKEPP                    1
+MODERSKEPPET                  1
+MOTORER                       1
+MOTORERNA                     1
+MUNNEN                        1
+MUNTLIGA                      1
+MYCKET                        1
+MYNDIGHETEN                   1
+MYNDIGHETER                   1
+MÄNGD                         1
+MÄNNISKORNAS                  1
+MÄNSKLIGHETEN                 1
+MÄRKLIGA                      1
+MÅNADER                       1
+MÅNEN                         1
+MÖJLIGT                       1
+MÖTESPROTOKOLL                1
+MÖTET                         1
+MÖTT                          1
+NIO                           1
+NIVÅER                        1
+NOGGRANT                      1
+NOTERAT                       1
+NÄMNDENS                      1
+NÄRA                          1
+NÄRMASTE                      1
+NÅGONSTANS                    1
+OBEROENDE                     1
+OFFENTLIG                     1
+OKÄND                         1
+OLIKA                         1
+OMEDELBART                    1
+OMRÅDE                        1
+OMRÅDETS                      1
+ONÖDIGT                       1
+ORD                           1
+ORDET                         1
+ORDFÖRANDE                    1
+ORDINARIE                     1
+ORDNA                         1
+OSS                           1
+OTREVLIGT                     1
+OTÅLIG                        1
+PARKBÄNK                      1
+PARKERA                       1
+PARKERADE                     1
+PARKERINGEN                   1
+PARKERINGSTILLSTÅND           1
+PARKERINGSVAKT                1
+PARKERINGSVAKTEN              1
+PARTIKELSTRÅLE                1
+PENNA                         1
+PLANER                        1
+PLANETEN                      1
+PLANETENS                     1
+PLANETER                      1
+POLITISKT                     1
+PRESENTATION                  1
+PRIMITIV                      1
+PRINCIP                       1
+PRIVAT                        1
+PROBLEMEN                     1
+PROCESSEN                     1
+PROJEKT                       1
+PROVADE                       1
+PROVER                        1
+PÄRMAR                        1
+PÅBÖRJAT                      1
+PÅVERKA                       1
+RAPPORTERA                    1
+RECEPTION                     1
+RECEPTIONSDISKEN              1
+REDOVISA                      1
+REDOVISNING                   1
+REGELVERK                     1
+REGN                          1
+REPRESENTANT                  1
+REPRESENTATION                1
+REPRESENTERAR                 1
+RESOR                         1
+REST                          1
+RESTE                         1
+RESURSFÖRDELNINGSMODELL       1
+RINGA                         1
+RITNINGAR                     1
+RITUAL                        1
+ROLL                          1
+ROPADE                        1
+RUM                           1
+RUMMET                        1
+RUTA                          1
+RÄCKTE                        1
+RÖRA                          1
+RÖRLIGHET                     1
+SAKEN                         1
+SAKNAS                        1
+SAMARBETE                     1
+SAMHÄLLET                     1
+SAMHÄLLSBYGGNAD               1
+SAMHÄLLSBYGGNADSFÖRVALTNINGEN 1
+SAMHÄLLSSTRUKTUREN            1
+SAMMANTRÄDEN                  1
+SAMMANTRÄDER                  1
+SAMMANTRÄDET                  1
+SAMORDNING                    1
+SAMTAL                        1
+SATT                          1
+SEKUNDER                      1
+SEPARAT                       1
+SER                           1
+SIDAN                         1
+SIGNAL                        1
+SILVERFÄRGADE                 1
+SJÖ                           1
+SKAFFAT                       1
+SKAKADE                       1
+SKALLRADE                     1
+SKATTEVERKET                  1
+SKEN                          1
+SKICKADE                      1
+SKICKAR                       1
+SKICKAT                       1
+SKOGSVÄG                      1
+SKRIVA                        1
+SKRIVBORD                     1
+SKRIVSYSTEM                   1
+SKYLT                         1
+SLUTLIGEN                     1
+SLUTSATSEN                    1
+SLÖT                          1
+SMAKADE                       1
+SMÅ                           1
+SMÅKAKOR                      1
+SNUBBLA                       1
+SOCKER                        1
+SOLEN                         1
+SOLNEDGÅNGEN                  1
+SPARA                         1
+SPELA                         1
+SPELAR                        1
+SPORTHALL                     1
+SPRÅK                         1
+SPÄNNANDE                     1
+STADEN                        1
+STANNADE                      1
+STAPLA                        1
+STARTA                        1
+STARTAR                       1
+STATUS                        1
+STENAR                        1
+STJÄRNSYSTEM                  1
+STOD                          1
+STRÄCKTE                      1
+STUDERA                       1
+STUDERADE                     1
+STUDERAT                      1
+STUGA                         1
+STUND                         1
+STÄMNING                      1
+STÄMPEL                       1
+STÄNGA                        1
+STÅR                          1
+SUCKADE                       1
+SUNT                          1
+SVAMP                         1
+SVARAT                        1
+SVENSKT                       1
+SVÅRIGHET                     1
+SVÅRT                         1
+SÄKER                         1
+SÄKERHETSMARGINAL             1
+SÄNDE                         1
+SÅDANT                        1
+SÖKANDEN                      1
+TAKET                         1
+TALA                          1
+TALAS                         1
+TAR                           1
+TECKEN                        1
+TEKNIK                        1
+TEKNISKA                      1
+TELEPATISK                    1
+TENDENS                       1
+TILLBAKA                      1
+TILLGÄNGLIGHET                1
+TILLGÅNG                      1
+TILLS                         1
+TILLSAMMANS                   1
+TIMMES                        1
+TIO                           1
+TISDAG                        1
+TJOCKARE                      1
+TJUGO                         1
+TJUGOTRE                      1
+TJÄNSTEBIL                    1
+TORGET                        1
+TRADITIONELL                  1
+TRADITIONEN                   1
+TRAFIKANALYS                  1
+TRANSPORTSYSTEM               1
+TREHUNDRA                     1
+TRETTIOFYRA                   1
+TROTS                         1
+TRÄDEN                        1
+TRÄDGÅRDEN                    1
+TVÅ                           1
+TVÅHUNDRA                     1
+TYP                           1
+TÄCKT                         1
+TÄMLIGEN                      1
+TÄNKER                        1
+TÅLMODIGT                     1
+UNDERSÖKNINGEN                1
+UNDRAR                        1
+UPPGIVET                      1
+UPPHÖR                        1
+UPPLYSNINGAR                  1
+UPPSKATTA                     1
+UPPTÄCKT                      1
+UR                            1
+UTANFÖR                       1
+UTE                           1
+UTFORSKA                      1
+UTFÖRA                        1
+UTLÅTANDE                     1
+UTMANING                      1
+UTOMJORDINGAR                 1
+UTOMJORDINGARNAS              1
+UTRUSTNING                    1
+UTSLÄPP                       1
+UTTALET                       1
+UTVECKLING                    1
+VADÅ                          1
+VANLIG                        1
+VANLIGT                       1
+VARANDRA                      1
+VARDERA                       1
+VARE                          1
+VARIT                         1
+VARJE                         1
+VATTENKOKARE                  1
+VED                           1
+VERKSAMHETSBESKRIVNING        1
+VERSION                       1
+VIKTIGASTE                    1
+VILJA                         1
+VILKET                        1
+VILLE                         1
+VISAR                         1
+VISS                          1
+VISSA                         1
+VISTAS                        1
+VÄNDE                         1
+VÄNLIGT                       1
+VÄNTAN                        1
+VÄNTETIDEN                    1
+VÄRDIG                        1
+VÄRLDENS                      1
+VÄXEL                         1
+VÄXTEN                        1
+YTA                           1
+YTTERLIGARE                   1
+ÄLDRE                         1
+ÄN                            1
+ÄNDRAS                        1
+ÄRENDEN                       1
+ÄRENDET                       1
+ÄVEN                          1
+ÅRLIGA                        1
+ÅTERSKAPA                     1
+ÅTERSTOD                      1
+ÅTERVINNINGSCENTRALEN         1
+ÅTERVÄNDE                     1
+ÖPPNA                         1
+ÖPPNADE                       1
+ÖVERNATURLIG                  1
+ÖVERTYGAD                     1
+ÖVRIGA                        1
+
+==================================================
+DOUBLE_LETTERS
+==================================================
+
+Count  : 460
+Unique : 13
+
+TT 159
+LL 106
+MM 52
+NN 45
+PP 34
+GG 20
+SS 17
+FF 14
+DD 5
+RR 4
+KK 2
+BB 1
+EE 1
+
+==================================================
+REPEATING_LETTERS
+==================================================
+
+Count  : 0
+Unique : 0
+
+No results.
+
+==================================================
+BIGRAMS
+==================================================
+
+Count  : 10379
+Unique : 400
+
+EN 324
+DE 323
+AN 239
+ER 218
+ET 211
+AR 188
+TE 177
+AT 165
+RA 163
+TT 159
+KA 131
+TI 129
+AD 128
+TA 123
+IN 122
+SK 119
+ÖR 116
+ST 113
+ND 112
+LL 106
+HA 102
+RE 101
+LA 99
+NI 99
+NA 95
+OM 94
+ÄR 94
+ON 91
+ME 90
+OR 88
+NG 85
+NT 84
+VA 84
+KO 83
+VI 82
+FÖ 80
+LI 80
+NS 80
+LE 78
+GA 77
+SA 77
+NE 73
+IG 69
+OC 68
+IL 66
+IS 66
+UN 64
+VE 63
+AL 61
+ED 60
+OG 59
+EL 58
+CK 57
+UT 55
+AM 53
+BL 53
+BE 52
+MM 52
+CH 51
+IO 51
+IT 51
+RI 50
+GE 49
+KT 49
+MA 49
+TR 49
+ÄN 48
+NN 45
+DA 44
+ES 44
+KE 43
+JA 42
+RS 41
+SE 41
+DI 39
+AG 37
+TO 37
+RT 36
+PÅ 35
+SO 35
+ZO 35
+EM 34
+PP 34
+MU 33
+RK 32
+AK 31
+ÅG 31
+SI 30
+ÄL 30
+FR 29
+RÄ 29
+ÅR 29
+KU 28
+PR 28
+RO 28
+LT 27
+RN 27
+TS 27
+ÅN 27
+HE 26
+NÄ 26
+OT 26
+PE 26
+AS 25
+UL 25
+AV 24
+ID 24
+PL 24
+SV 24
+GS 23
+HU 23
+IV 23
+LO 23
+RD 23
+UR 23
+MO 22
+DR 21
+EC 21
+HÖ 21
+KL 21
+RÅ 21
+VÄ 21
+YS 21
+GG 20
+IK 20
+ÖV 20
+FÅ 19
+GO 19
+LS 19
+PA 19
+SÖ 19
+TU 19
+UM 19
+EF 18
+MÅ 18
+NK 18
+ÖK 18
+DÅ 17
+EH 17
+EK 17
+IP 17
+MÄ 17
+NU 17
+RG 17
+SP 17
+SS 17
+EP 16
+GI 16
+HÄ 16
+IC 16
+JU 16
+KN 16
+KR 16
+SÅ 16
+YG 16
+ÅT 16
+AP 15
+BY 15
+EX 15
+FI 15
+FO 15
+FÄ 15
+GT 15
+GÖ 15
+LÅ 15
+NÅ 15
+OL 15
+SL 15
+BA 14
+CI 14
+FA 14
+FF 14
+IA 14
+RM 14
+TÄ 14
+BÖ 13
+EG 13
+GR 13
+LD 13
+LU 13
+LÄ 13
+OK 13
+RJ 13
+TÅ 13
+UP 13
+VÅ 13
+ÄM 13
+DO 12
+EV 12
+FE 12
+GÅ 12
+JO 12
+NO 12
+OD 12
+TL 12
+US 12
+BI 11
+CE 11
+DS 11
+FT 11
+GH 11
+MN 11
+MT 11
+PO 11
+RU 11
+SN 11
+SU 11
+SY 11
+SÄ 11
+ÄS 11
+AF 10
+DN 10
+FY 10
+MP 10
+TY 10
+YR 10
+ÄT 10
+BR 9
+DL 9
+GN 9
+LJ 9
+LY 9
+MI 9
+PI 9
+RB 9
+SM 9
+TN 9
+UD 9
+ÄD 9
+DÄ 8
+GL 8
+HO 8
+JÄ 8
+KI 8
+MÖ 8
+OV 8
+RL 8
+SB 8
+SF 8
+TV 8
+XP 8
+ÅS 8
+ÖT 8
+FU 7
+KV 7
+MH 7
+SJ 7
+ÅL 7
+ÖN 7
+AB 6
+EJ 6
+KÄ 6
+MY 6
+OB 6
+OP 6
+RV 6
+TJ 6
+YN 6
+ÄG 6
+ÄK 6
+BJ 5
+BÄ 5
+DD 5
+GÄ 5
+IE 5
+IR 5
+JE 5
+JÖ 5
+KS 5
+MF 5
+NL 5
+PN 5
+RF 5
+RY 5
+SR 5
+TF 5
+XT 5
+YL 5
+ÄV 5
+ÅK 5
+ÖG 5
+ÖP 5
+BO 4
+FL 4
+GD 4
+GV 4
+IF 4
+IM 4
+KY 4
+LM 4
+LV 4
+LÖ 4
+MB 4
+MD 4
+MJ 4
+MV 4
+NC 4
+NF 4
+NH 4
+PT 4
+RR 4
+TM 4
+UG 4
+VS 4
+YC 4
+YM 4
+ÄC 4
+AC 3
+DF 3
+EB 3
+HI 3
+HJ 3
+LB 3
+LF 3
+LK 3
+LP 3
+LR 3
+ML 3
+MR 3
+NV 3
+OF 3
+RÖ 3
+SD 3
+UK 3
+VD 3
+YT 3
+ÄF 3
+ÅD 3
+ÅE 3
+ÖL 3
+
+==================================================
+PUNCTUATION
+==================================================
+
+Count  : 382
+Unique : 5
+
+. 267
+, 50
+? 44
+: 11
+! 10
+
+==================================================
+LETTER CONTEXT
+==================================================
+
+A
+
+  BEFORE
+    R          99
+    H          98
+    K          86
+    V          81
+    T          80
+    L          75
+    S          60
+    N          57
+    G          52
+    M          47
+    D          41
+    J          29
+    P          17
+    B          14
+    I          14
+    F          11
+
+  AFTER
+    N          210
+    R          184
+    D          128
+    T          110
+    M          50
+    L          49
+    G          37
+    K          30
+    S          25
+    P          14
+    F          10
+    B          6
+    V          3
+    C          3
+
+  TRIGRAMS
+    VAR        44
+    HAN        39
+    LAN        34
+    HAD        32
+    SAM        30
+    HAR        26
+    KAN        24
+    RAD        24
+    RAT        21
+    RAN        21
+    MAR        20
+    SAT        20
+    MAN        20
+    TAN        19
+    KAR        18
+    GAR        17
+    NAL        16
+    PAR        15
+    VAD        15
+    JAG        15
+    TAD        14
+    DAG        13
+    DAN        13
+    NAD        13
+    IAN        11
+    LAT        11
+    KAP        10
+    GAL        9
+    NAT        9
+    GAN        9
+    TAT        9
+    KAD        9
+    LAK        8
+    TAL        8
+    NAN        8
+    RAR        8
+    VAT        8
+    RAM        7
+    GAD        7
+    TAK        7
+    GAT        7
+    TAR        7
+    KAT        7
+    KAF        7
+    BAR        6
+    TAB        6
+    LAR        6
+    RAS        6
+    NAR        6
+    KAK        6
+    VAN        5
+    TAG        5
+    DAT        5
+    FAT        5
+    KAL        5
+    DAR        4
+    MAT        4
+    LAS        4
+    VAL        4
+    BAS        4
+    SAD        4
+    JAD        4
+    SAN        3
+    NAS        3
+    LAG        3
+    LAD        3
+    VAM        3
+    JAR        3
+    RAF        3
+    DAM        3
+    LAM        3
+    FAR        3
+    JAT        3
+
+B
+
+  BEFORE
+    R          9
+    S          8
+    A          6
+    O          6
+    M          4
+    L          3
+    E          3
+
+  AFTER
+    L          14
+    E          9
+    A          7
+    I          5
+    Y          3
+
+  TRIGRAMS
+    ABL        6
+    RBE        6
+    OBL        5
+    LBA        3
+    MBA        3
+    RBI        3
+    SBY        3
+
+C
+
+  BEFORE
+    O          68
+    E          21
+    I          16
+    Ä          4
+    N          4
+    Y          4
+    A          3
+
+  AFTER
+    K          57
+    H          51
+    E          9
+    I          5
+
+  TRIGRAMS
+    OCH        51
+    ECK        17
+    ICK        15
+    OCK        13
+    ÄCK        4
+    YCK        4
+    NCE        3
+    ACK        3
+
+D
+
+  BEFORE
+    N          105
+    A          103
+    E          34
+    R          21
+    I          14
+    L          11
+    U          9
+    Ä          9
+    O          6
+    D          5
+    M          4
+    S          3
+    Å          3
+    V          3
+    G          3
+
+  AFTER
+    E          208
+    I          30
+    A          29
+    R          18
+    S          11
+    L          9
+    N          9
+    D          5
+    Å          4
+    O          4
+    F          3
+
+  TRIGRAMS
+    ADE        94
+    NDE        62
+    EDA        13
+    NDR        11
+    RDE        10
+    LDE        8
+    EDI        8
+    NDI        7
+    NDL        7
+    NDA        6
+    RDI        6
+    NDN        6
+    ÄDE        6
+    UDE        5
+    IDE        5
+    EDO        4
+    IDA        4
+    MDS        3
+    NDS        3
+    LDR        3
+    ADS        3
+    NDÅ        3
+    VDE        3
+    ODE        3
+    RDF        3
+    GDE        3
+    DDE        3
+
+E
+
+  BEFORE
+    D          181
+    T          135
+    M          90
+    R          73
+    V          63
+    L          62
+    N          60
+    B          52
+    G          44
+    K          43
+    S          38
+    P          26
+    H          26
+    C          11
+    F          9
+    J          4
+    Å          3
+
+  AFTER
+    N          227
+    R          210
+    T          177
+    D          60
+    L          56
+    S          44
+    M          32
+    C          21
+    K          17
+    H          17
+    P          16
+    V          11
+    G          10
+    F          9
+    X          7
+    J          6
+    B          3
+
+  TRIGRAMS
+    DET        78
+    TER        56
+    DEN        45
+    NEN        32
+    TEN        32
+    MEN        31
+    VER        29
+    MED        29
+    DER        29
+    GEN        25
+    DEL        20
+    HET        18
+    BES        18
+    LER        16
+    KET        15
+    BEH        15
+    VEN        14
+    MET        14
+    RES        14
+    SEN        14
+    RED        13
+    MER        13
+    TEL        12
+    KER        11
+    REN        11
+    VEC        11
+    TEM        10
+    NET        10
+    PER        10
+    BET        10
+    KEP        9
+    SER        9
+    LEM        9
+    LEN        8
+    NER        8
+    PED        8
+    TET        8
+    KEN        7
+    GEF        7
+    BER        7
+    VET        6
+    TEC        6
+    LEV        6
+    LEG        6
+    LED        5
+    CER        5
+    RET        5
+    HEL        5
+    NEJ        5
+    RER        5
+    REL        5
+    TEK        4
+    REC        4
+    SET        4
+    DEM        4
+    TEX        4
+    GER        4
+    REG        4
+    DES        4
+    REV        4
+    LET        4
+    LES        3
+    PET        3
+    PEL        3
+    REP        3
+    SED        3
+    FEK        3
+    FEM        3
+    SEX        3
+    REK        3
+
+F
+
+  BEFORE
+    E          18
+    F          14
+    A          10
+    S          8
+    R          5
+    M          5
+    T          5
+    N          4
+    I          4
+    Ä          3
+    O          3
+    L          3
+    D          3
+
+  AFTER
+    Ö          15
+    F          14
+    Ä          13
+    T          11
+    A          10
+    E          9
+    I          5
+    O          5
+
+  TRIGRAMS
+    FFE        9
+    EFT        8
+    AFF        8
+    EFÄ        7
+    FFA        4
+    RFÖ        4
+    ÄFF        3
+    SFÖ        3
+    LFÄ        3
+    DFÖ        3
+    MFÖ        3
+    TFA        3
+
+G
+
+  BEFORE
+    N          58
+    I          48
+    Å          25
+    G          20
+    R          16
+    A          16
+    Y          16
+    E          13
+    O          8
+    Ö          5
+    Ä          5
+    U          4
+
+  AFTER
+    A          69
+    E          37
+    S          23
+    G          20
+    O          16
+    T          15
+    H          11
+    I          10
+    R          10
+    N          9
+    L          5
+    D          4
+    V          4
+    Å          4
+    Ö          3
+
+  TRIGRAMS
+    NGE        23
+    NGS        16
+    NGA        15
+    IGA        15
+    YGG        14
+    IGT        13
+    RGA        11
+    IGH        10
+    ÅGA        9
+    GGA        8
+    ÅGR        8
+    ÅGO        8
+    IGE        7
+    EGA        6
+    GGN        6
+    AGS        5
+    ÖGO        4
+    AGV        4
+    EGE        4
+    AGI        3
+    NGD        3
+    GGL        3
+    OGI        3
+    ÄGG        3
+
+H
+
+  BEFORE
+    E          17
+    G          11
+    M          7
+    N          4
+
+  AFTER
+    Ö          16
+    E          14
+    U          8
+    A          5
+    Ä          4
+
+  TRIGRAMS
+    EHÖ        15
+    GHE        11
+    NHU        4
+    MHÄ        4
+
+I
+
+  BEFORE
+    T          128
+    L          78
+    N          61
+    R          49
+    D          39
+    V          38
+    S          30
+    G          16
+    F          15
+    C          14
+    B          11
+    M          9
+    P          9
+    K          8
+    H          3
+
+  AFTER
+    N          81
+    G          69
+    S          66
+    L          66
+    O          51
+    T          48
+    V          23
+    K          20
+    D          20
+    P          17
+    C          16
+    A          14
+    E          5
+    R          5
+    F          4
+
+  TRIGRAMS
+    TIO        45
+    LIG        36
+    NIN        36
+    TIL        34
+    TIS        16
+    VIL        16
+    NIS        15
+    RIN        15
+    LIP        12
+    RIA        11
+    DIT        10
+    LIS        10
+    DIG        10
+    TID        10
+    SIG        10
+    CIV        9
+    FIK        8
+    PIT        8
+    VID        8
+    VIS        8
+    TIG        8
+    SIN        7
+    TIT        7
+    RIV        6
+    DIN        5
+    LIN        5
+    KIL        5
+    RIG        5
+    DIS        5
+    RIT        5
+    GIC        5
+    MIN        4
+    SIT        4
+    BIN        4
+    NIC        4
+    LIT        4
+    BIL        4
+    GIT        3
+    LIK        3
+    FIC        3
+    TIV        3
+    DIP        3
+    GIS        3
+    MIL        3
+    LIR        3
+    VIT        3
+    TIF        3
+    SIS        3
+    KIC        3
+
+J
+
+  BEFORE
+    R          13
+    L          9
+    S          7
+    T          6
+    B          5
+    M          4
+    H          3
+
+  AFTER
+    A          14
+    U          12
+    O          10
+    Ä          8
+    E          5
+    Ö          5
+
+  TRIGRAMS
+    RJA        12
+    SJU        4
+    MJO        4
+    BJÖ        3
+    HJÄ        3
+    TJU        3
+
+K
+
+  BEFORE
+    S          107
+    C          42
+    A          30
+    R          29
+    I          18
+    Ö          18
+    E          16
+    N          16
+    O          13
+    Ä          6
+    Å          4
+    L          3
+    U          3
+
+  AFTER
+    A          96
+    T          49
+    E          43
+    O          28
+    U          23
+    L          18
+    N          16
+    R          12
+    I          8
+    S          5
+    Ä          4
+    Y          3
+
+  TRIGRAMS
+    SKA        39
+    AKT        18
+    SKU        16
+    CKA        14
+    IKA        12
+    ÖKA        12
+    SKE        11
+    SKR        11
+    SKO        10
+    NKE        10
+    RKE        9
+    SKI        8
+    EKT        6
+    RKL        6
+    CKL        6
+    CKT        6
+    CKO        6
+    CKN        5
+    IKT        5
+    OKU        5
+    SKT        5
+    AKA        5
+    RKA        5
+    SKL        4
+    ÖKN        4
+    OKA        4
+    RKS        3
+    LKE        3
+    ÄKT        3
+    CKE        3
+    EKO        3
+    EKN        3
+    UKT        3
+    OKO        3
+    ÅKA        3
+    AKO        3
+
+L
+
+  BEFORE
+    L          70
+    I          65
+    B          53
+    A          49
+    E          47
+    Ä          27
+    U          25
+    P          24
+    K          21
+    O          15
+    S          15
+    T          12
+    D          9
+    R          8
+    G          8
+    Å          7
+    N          5
+    Y          5
+    F          4
+    M          3
+    Ö          3
+
+  AFTER
+    L          106
+    A          85
+    I          75
+    E          71
+    T          27
+    S          19
+    O          18
+    D          13
+    U          12
+    J          7
+    Ä          7
+    Y          5
+    V          4
+    M          4
+    K          3
+    B          3
+    P          3
+    F          3
+    R          3
+    Ö          3
+
+  TRIGRAMS
+    ILL        39
+    LLE        25
+    BLI        21
+    ALA        16
+    BLE        16
+    ULL        15
+    PLA        15
+    ALL        14
+    ELE        14
+    ÄLL        14
+    LLA        12
+    BLA        12
+    SLU        12
+    ELA        10
+    TLI        10
+    ELL        10
+    LLS        9
+    ILI        9
+    KLI        8
+    KLA        8
+    ELS        8
+    OLL        7
+    LLT        6
+    RLI        6
+    ULT        6
+    ILT        5
+    ALT        5
+    PLO        5
+    ÄLD        5
+    NLI        4
+    LLI        4
+    YLL        4
+    ALY        4
+    OLO        4
+    ILJ        4
+    LLD        3
+    KLO        3
+    ALE        3
+    ILK        3
+    ÄLP        3
+    GLO        3
+    DLÄ        3
+    DLI        3
+    LLF        3
+
+M
+
+  BEFORE
+    M          52
+    O          51
+    A          47
+    U          17
+    E          16
+    Ä          13
+    R          12
+    S          9
+    Y          4
+    I          4
+    L          4
+    T          4
+
+  AFTER
+    M          52
+    E          34
+    U          31
+    A          27
+    O          12
+    T          11
+    N          11
+    P          10
+    H          7
+    Å          6
+    F          5
+    D          4
+    J          4
+    V          4
+    B          4
+    L          3
+    I          3
+    R          3
+
+  TRIGRAMS
+    OMM        32
+    MMU        27
+    MME        16
+    AMT        10
+    UMM        10
+    MMA        9
+    ÄMN        9
+    AMM        8
+    UME        7
+    EME        6
+    RMA        5
+    EMA        5
+    AMH        5
+    OMF        5
+    AMO        5
+    OMJ        4
+    SMÅ        4
+    AMV        4
+    AMP        4
+    EMO        3
+    YMD        3
+    OMP        3
+    OMA        3
+    AMB        3
+    RMU        3
+
+N
+
+  BEFORE
+    A          150
+    I          110
+    E          82
+    U          63
+    O          54
+    Ä          47
+    N          45
+    R          27
+    Å          19
+    K          16
+    S          11
+    D          10
+    T          9
+    M          9
+    G          8
+    Ö          7
+    P          5
+    Y          5
+
+  AFTER
+    D          112
+    A          91
+    G          85
+    T          84
+    S          80
+    E          66
+    I          55
+    N          45
+    K          18
+    U          13
+    O          7
+    L          5
+    F          4
+    H          4
+    C          4
+    V          3
+
+  TRIGRAMS
+    ING        56
+    AND        46
+    ENS        29
+    INT        24
+    RNA        24
+    UND        23
+    ANS        22
+    ONE        22
+    ANT        21
+    ANN        20
+    NNE        19
+    ENT        17
+    NNA        14
+    ÄND        13
+    ÅNG        12
+    ONT        12
+    ONS        12
+    KNI        11
+    ANE        11
+    UNG        10
+    ANK        10
+    UNA        9
+    UNE        9
+    NNI        9
+    END        9
+    ÄNN        8
+    TNI        8
+    DNI        8
+    ENA        8
+    INN        7
+    INA        7
+    ÄNT        7
+    MND        7
+    ÄNG        6
+    ENN        6
+    ÄNS        6
+    ÖNS        6
+    ENO        6
+    GNA        6
+    ANI        6
+    SNU        6
+    PNA        5
+    IND        5
+    KNA        5
+    YND        5
+    ÄNK        5
+    UNH        4
+    ÅND        4
+    ANA        4
+    ANL        3
+    ENI        3
+    ANC        3
+    INU        3
+
+O
+
+  BEFORE
+    K          83
+    I          48
+    S          35
+    T          35
+    Z          35
+    R          28
+    L          23
+    M          22
+    G          18
+    F          15
+    D          12
+    N          12
+    P          11
+    J          11
+    H          8
+    B          4
+
+  AFTER
+    N          90
+    R          76
+    M          75
+    G          59
+    T          24
+    C          15
+    L          14
+    D          12
+    K          12
+    V          8
+    P          6
+    B          5
+
+  TRIGRAMS
+    ION        44
+    KOM        38
+    ZOG        35
+    SOM        23
+    KOR        19
+    TOR        17
+    KON        14
+    FOR        13
+    MOT        12
+    GON        10
+    JOR        8
+    LOG        8
+    LOC        7
+    POR        7
+    NOM        7
+    HON        6
+    SON        6
+    MOD        6
+    TOG        6
+    GOT        5
+    DOK        5
+    ROR        5
+    ROB        5
+    TOM        4
+    NOG        4
+    ROT        4
+    KOL        4
+    TON        3
+    DOV        3
+    BOR        3
+    LOM        3
+    ROL        3
+    GOD        3
+    MOR        3
+    LOV        3
+    KOP        3
+    KOG        3
+    TOK        3
+    SOC        3
+
+P
+
+  BEFORE
+    P          22
+    S          17
+    E          16
+    A          15
+    U          13
+    M          9
+    X          8
+    Ö          5
+    O          5
+    I          4
+    L          3
+
+  AFTER
+    P          34
+    E          19
+    L          14
+    A          11
+    O          10
+    I          9
+    R          8
+    N          5
+    T          4
+
+  TRIGRAMS
+    UPP        12
+    EPP        9
+    XPE        8
+    API        8
+    ÖPP        5
+    PPN        5
+    SPL        5
+    PPE        4
+    APP        4
+    SPR        4
+    PPO        4
+    SPO        3
+    MPO        3
+    PPA        3
+    MPL        3
+    IPL        3
+    EPR        3
+    OPP        3
+
+R
+
+  BEFORE
+    E          114
+    A          97
+    Ö          82
+    O          70
+    T          49
+    Ä          34
+    F          29
+    P          28
+    D          21
+    K          16
+    G          13
+    Y          10
+    B          9
+    U          9
+    Å          7
+    S          5
+    R          4
+    M          3
+    L          3
+
+  AFTER
+    A          162
+    E          80
+    I          43
+    S          41
+    T          36
+    K          32
+    N          27
+    O          26
+    Ä          26
+    D          23
+    Å          21
+    G          17
+    M          14
+    J          13
+    B          9
+    L          8
+    U          8
+    V          6
+    F          5
+    R          4
+
+  TRIGRAMS
+    ERA        47
+    ARA        24
+    ÖRA        21
+    ORT        19
+    TRE        19
+    ARE        19
+    ERS        18
+    ARI        17
+    FRÅ        16
+    ORD        16
+    PRO        15
+    DRA        15
+    ÖRS        14
+    ARK        13
+    TRÄ        13
+    ÖRJ        12
+    GRA        11
+    ORG        9
+    ORN        9
+    TRA        8
+    ERI        8
+    ARN        8
+    ÖRE        8
+    ERK        8
+    FRA        7
+    ERN        7
+    ÖRK        6
+    PRE        6
+    TRO        6
+    ERG        5
+    BRA        5
+    ART        5
+    YRA        5
+    ÄRA        5
+    ARB        5
+    KRI        5
+    ORE        5
+    ÄRE        5
+    KRA        4
+    ÄRL        4
+    ÄRS        4
+    ÖRV        4
+    ERM        4
+    ORS        4
+    ÖRB        4
+    ÅRT        4
+    ERO        4
+    SRÄ        4
+    ÖRD        4
+    URE        4
+    FRI        4
+    ORM        4
+    ÄRK        3
+    ERT        3
+    PRI        3
+    ÖRT        3
+    ÄRM        3
+    PRA        3
+    KRÄ        3
+    KRE        3
+
+S
+
+  BEFORE
+    I          64
+    N          59
+    R          41
+    E          36
+    T          21
+    Y          20
+    G          19
+    L          17
+    S          15
+    A          12
+    D          11
+    U          11
+    Ä          11
+    Å          8
+    K          5
+    V          3
+
+  AFTER
+    T          85
+    K          75
+    A          41
+    E          30
+    Ö          18
+    S          17
+    P          11
+    N          10
+    L          10
+    B          8
+    F          8
+    O          7
+    V          6
+    U          6
+    R          5
+    M          4
+    I          4
+    Y          4
+    D          3
+    Å          3
+
+  TRIGRAMS
+    ISK        37
+    NSK        21
+    ISA        17
+    RST        15
+    YST        13
+    RSK        11
+    ÄST        10
+    ESL        9
+    ÅST        8
+    EST        7
+    NSÖ        7
+    LSE        7
+    AST        6
+    SSA        6
+    RSO        6
+    RSÖ        6
+    NST        6
+    TSA        5
+    LST        5
+    NSN        5
+    GSP        5
+    ESS        5
+    IST        5
+    DSK        4
+    USE        4
+    ESE        4
+    GST        4
+    ESÖ        4
+    SSE        4
+    TSE        4
+    NSR        4
+    UST        3
+    GSV        3
+    ASS        3
+    GSA        3
+    YSE        3
+    NSV        3
+    ISS        3
+    ESU        3
+
+T
+
+  BEFORE
+    A          136
+    S          101
+    E          96
+    N          71
+    T          55
+    U          44
+    I          42
+    K          36
+    R          21
+    Å          14
+    O          13
+    L          12
+    Ä          10
+    F          10
+    Ö          7
+    M          6
+    X          5
+    P          3
+    Y          3
+
+  AFTER
+    E          166
+    T          159
+    A          109
+    I          82
+    O          30
+    R          27
+    S          27
+    U          19
+    L          12
+    Å          10
+    Ä          9
+    N          9
+    V          6
+    Y          5
+    F          5
+    M          4
+
+  TRIGRAMS
+    ATT        75
+    ETT        51
+    ATI        34
+    NTE        33
+    TTA        26
+    STE        26
+    STA        26
+    TTE        24
+    KTI        17
+    ETA        16
+    ETE        15
+    NTA        15
+    ITT        13
+    ITI        13
+    NTR        12
+    ITE        11
+    STO        10
+    KTE        10
+    ÄTT        10
+    STÅ        9
+    UTE        9
+    FTE        9
+    ÅTE        8
+    UTA        8
+    ATS        8
+    STU        7
+    STÄ        7
+    ETS        7
+    ÖTE        6
+    UTV        6
+    ATU        6
+    STR        6
+    OTO        6
+    UTS        6
+    UTO        5
+    STI        5
+    NTL        5
+    XTE        5
+    ÅTT        5
+    RTS        4
+    LTN        4
+    MTL        4
+    RTE        4
+    OTE        3
+    UTT        3
+    ATE        3
+    ATO        3
+    ATA        3
+    KTA        3
+    ATM        3
+    ITA        3
+    RTI        3
+    LTA        3
+    NTO        3
+    LTU        3
+    RTF        3
+
+U
+
+  BEFORE
+    M          33
+    K          28
+    H          23
+    T          19
+    L          13
+    N          13
+    J          11
+    R          11
+    S          11
+    F          7
+
+  AFTER
+    N          44
+    L          25
+    T          24
+    R          22
+    M          19
+    S          12
+    D          9
+    P          5
+    G          4
+    K          3
+
+  TRIGRAMS
+    MUN        29
+    KUL        15
+    HUR        13
+    LUT        12
+    TUR        7
+    NUM        7
+    TUD        5
+    HUN        5
+    KUM        5
+    HUS        4
+    KUN        4
+    FUN        4
+    NUT        4
+    RUM        4
+    SUP        4
+    RUT        3
+    SUL        3
+    JUD        3
+    KUT        3
+
+V
+
+  BEFORE
+    S          24
+    I          21
+    Ö          20
+    T          8
+    A          8
+    K          7
+    R          6
+    O          6
+    Ä          5
+    M          4
+    G          4
+    E          3
+    N          3
+
+  AFTER
+    E          45
+    A          30
+    I          21
+    Ä          10
+    Å          6
+    S          4
+    D          3
+
+  TRIGRAMS
+    ÖVE        16
+    SVA        11
+    IVI        11
+    SVE        10
+    TVE        6
+    RVA        4
+    MVÄ        4
+    GVA        4
+    ÖVD        3
+    KVA        3
+    AVI        3
+    AVA        3
+    ÄVE        3
+    IVA        3
+
+X
+
+  BEFORE
+    E          12
+
+  AFTER
+    P          8
+    T          5
+
+  TRIGRAMS
+    EXP        8
+    EXT        4
+
+Y
+
+  BEFORE
+    B          15
+    S          11
+    F          10
+    T          10
+    L          9
+    M          6
+    R          5
+    K          4
+
+  AFTER
+    S          21
+    G          16
+    R          10
+    N          6
+    L          5
+    M          4
+    C          4
+
+  TRIGRAMS
+    BYG        14
+    SYS        10
+    LYS        8
+    FYR        6
+    MYN        5
+    FYL        4
+    RYM        3
+
+Ä
+
+  BEFORE
+    R          29
+    N          26
+    V          21
+    M          17
+    H          16
+    F          15
+    T          14
+    L          13
+    S          11
+    J          8
+    D          8
+    K          6
+    B          5
+    G          5
+
+  AFTER
+    R          58
+    N          40
+    L          29
+    M          13
+    S          11
+    T          10
+    D          9
+    K          6
+    G          6
+    C          4
+    V          4
+    F          3
+
+  TRIGRAMS
+    MÄN        12
+    NÄR        12
+    FÄR        10
+    VÄL        9
+    RÄT        8
+    HÄR        8
+    RÄD        8
+    DÄR        8
+    NÄS        7
+    VÄN        7
+    NÄM        7
+    TÄM        5
+    JÄL        5
+    HÄL        5
+    FÄL        5
+    TÄN        4
+    SÄR        4
+    RÄV        4
+    MÄR        3
+    KÄR        3
+    RÄF        3
+    LÄG        3
+    GÄL        3
+    LÄN        3
+    HÄN        3
+    KÄN        3
+
+Å
+
+  BEFORE
+    R          21
+    M          17
+    L          15
+    N          15
+    F          14
+    V          12
+    T          11
+    S          7
+    G          7
+
+  AFTER
+    G          31
+    N          27
+    R          24
+    T          12
+    S          8
+    L          7
+    K          5
+    D          3
+    E          3
+
+  TRIGRAMS
+    NÅG        15
+    VÅR        9
+    FÅR        9
+    RÅN        8
+    MÅS        8
+    RÅG        8
+    LÅN        7
+    LÅT        6
+    SÅG        5
+    FÅT        5
+    TÅN        4
+    TÅL        4
+    MÅN        4
+    GÅN        4
+    TÅR        3
+    MÅK        3
+
+Ö
+
+  BEFORE
+    F          80
+    H          21
+    S          19
+    G          15
+    B          13
+    M          8
+    L          4
+    J          3
+    R          3
+
+  AFTER
+    R          116
+    K          18
+    V          14
+    T          8
+    L          3
+
+  TRIGRAMS
+    FÖR        78
+    SÖK        18
+    GÖR        15
+    HÖV        14
+    BÖR        13
+    MÖT        7
+    HÖR        3
+
+==================================================
+TRIGRAMS
+==================================================
+
+Count  : 7984
+Unique : 1558
+
+ADE 94
+DET 78
+FÖR 78
+ATT 75
+NDE 62
+ING 56
+TER 56
+ETT 51
+OCH 51
+ERA 47
+AND 46
+DEN 45
+TIO 45
+ION 44
+VAR 44
+HAN 39
+ILL 39
+SKA 39
+KOM 38
+ISK 37
+LIG 36
+NIN 36
+ZOG 35
+ATI 34
+LAN 34
+TIL 34
+NTE 33
+HAD 32
+NEN 32
+OMM 32
+TEN 32
+MEN 31
+SAM 30
+DER 29
+ENS 29
+MED 29
+MUN 29
+VER 29
+MMU 27
+HAR 26
+STA 26
+STE 26
+TTA 26
+GEN 25
+LLE 25
+ARA 24
+INT 24
+KAN 24
+RAD 24
+RNA 24
+TTE 24
+NGE 23
+SOM 23
+UND 23
+ANS 22
+ONE 22
+ANT 21
+BLI 21
+NSK 21
+RAN 21
+RAT 21
+ÖRA 21
+ANN 20
+DEL 20
+MAN 20
+MAR 20
+SAT 20
+ARE 19
+KOR 19
+NNE 19
+ORT 19
+TAN 19
+TRE 19
+AKT 18
+BES 18
+ERS 18
+HET 18
+KAR 18
+SÖK 18
+ARI 17
+ECK 17
+ENT 17
+GAR 17
+ISA 17
+KTI 17
+TOR 17
+ALA 16
+BLE 16
+ETA 16
+FRÅ 16
+LER 16
+MME 16
+NAL 16
+NGS 16
+ORD 16
+SKU 16
+TIS 16
+VIL 16
+ÖVE 16
+BEH 15
+DRA 15
+EHÖ 15
+ETE 15
+GÖR 15
+ICK 15
+IGA 15
+JAG 15
+KET 15
+KUL 15
+NGA 15
+NIS 15
+NTA 15
+NÅG 15
+PAR 15
+PLA 15
+PRO 15
+RIN 15
+RST 15
+ULL 15
+VAD 15
+ALL 14
+BYG 14
+CKA 14
+ELE 14
+HÖV 14
+KON 14
+MET 14
+NNA 14
+RES 14
+SEN 14
+TAD 14
+VEN 14
+YGG 14
+ÄLL 14
+ÖRS 14
+ARK 13
+BÖR 13
+DAG 13
+DAN 13
+EDA 13
+FOR 13
+HUR 13
+IGT 13
+ITI 13
+ITT 13
+MER 13
+NAD 13
+OCK 13
+RED 13
+TRÄ 13
+YST 13
+ÄND 13
+BLA 12
+IKA 12
+LIP 12
+LLA 12
+LUT 12
+MOT 12
+MÄN 12
+NTR 12
+NÄR 12
+ONS 12
+ONT 12
+RJA 12
+SLU 12
+TEL 12
+UPP 12
+ÅNG 12
+ÖKA 12
+ÖRJ 12
+ANE 11
+GHE 11
+GRA 11
+IAN 11
+ITE 11
+IVI 11
+KER 11
+KNI 11
+LAT 11
+NDR 11
+REN 11
+RGA 11
+RIA 11
+RSK 11
+SKE 11
+SKR 11
+SVA 11
+VEC 11
+AMT 10
+ANK 10
+BET 10
+DIG 10
+DIT 10
+ELA 10
+ELL 10
+FÄR 10
+GON 10
+IGH 10
+KAP 10
+KTE 10
+LIS 10
+NET 10
+NKE 10
+PER 10
+RDE 10
+SIG 10
+SKO 10
+STO 10
+SVE 10
+SYS 10
+TEM 10
+TID 10
+TLI 10
+UMM 10
+UNG 10
+ÄST 10
+ÄTT 10
+CIV 9
+END 9
+EPP 9
+ESL 9
+FFE 9
+FTE 9
+FÅR 9
+GAL 9
+GAN 9
+ILI 9
+KAD 9
+KEP 9
+LEM 9
+LLS 9
+MMA 9
+NAT 9
+NNI 9
+ORG 9
+ORN 9
+RKE 9
+SER 9
+STÅ 9
+TAT 9
+UNA 9
+UNE 9
+UTE 9
+VÄL 9
+VÅR 9
+ÄMN 9
+ÅGA 9
+AFF 8
+AMM 8
+API 8
+ARN 8
+ATS 8
+DNI 8
+DÄR 8
+EDI 8
+EFT 8
+ELS 8
+ENA 8
+ERI 8
+ERK 8
+EXP 8
+FIK 8
+GGA 8
+HÄR 8
+JOR 8
+KLA 8
+KLI 8
+LAK 8
+LDE 8
+LEN 8
+LOG 8
+LYS 8
+MÅS 8
+NAN 8
+NER 8
+PED 8
+PIT 8
+RAR 8
+RÄD 8
+RÄT 8
+RÅG 8
+RÅN 8
+SKI 8
+TAL 8
+TET 8
+TIG 8
+TNI 8
+TRA 8
+UTA 8
+VAT 8
+VID 8
+VIS 8
+XPE 8
+ÄNN 8
+ÅGO 8
+ÅGR 8
+ÅST 8
+ÅTE 8
+ÖRE 8
+BER 7
+EFÄ 7
+ERN 7
+EST 7
+ETS 7
+FRA 7
+GAD 7
+GAT 7
+GEF 7
+IGE 7
+INA 7
+INN 7
+KAF 7
+KAT 7
+KEN 7
+LOC 7
+LSE 7
+LÅN 7
+MND 7
+MÖT 7
+NDI 7
+NDL 7
+NOM 7
+NSÖ 7
+NUM 7
+NÄM 7
+NÄS 7
+OLL 7
+POR 7
+RAM 7
+SIN 7
+STU 7
+STÄ 7
+TAK 7
+TAR 7
+TIT 7
+TUR 7
+UME 7
+VÄN 7
+ÄNT 7
+ABL 6
+ANI 6
+AST 6
+ATU 6
+BAR 6
+CKL 6
+CKO 6
+CKT 6
+EGA 6
+EKT 6
+EME 6
+ENN 6
+ENO 6
+FYR 6
+GGN 6
+GNA 6
+HON 6
+KAK 6
+LAR 6
+LEG 6
+LEV 6
+LLT 6
+LÅT 6
+MOD 6
+NAR 6
+NDA 6
+NDN 6
+NST 6
+OTO 6
+PRE 6
+RAS 6
+RBE 6
+RDI 6
+RIV 6
+RKL 6
+RLI 6
+RSO 6
+RSÖ 6
+SNU 6
+SON 6
+SSA 6
+STR 6
+TAB 6
+TEC 6
+TOG 6
+TRO 6
+TVE 6
+ULT 6
+UTS 6
+UTV 6
+VET 6
+ÄDE 6
+ÄNG 6
+ÄNS 6
+ÖNS 6
+ÖRK 6
+ÖTE 6
+AGS 5
+AKA 5
+ALT 5
+AMH 5
+AMO 5
+ARB 5
+ART 5
+BRA 5
+CER 5
+CKN 5
+DAT 5
+DIN 5
+DIS 5
+DOK 5
+EMA 5
+ERG 5
+ESS 5
+FAT 5
+FÄL 5
+FÅT 5
+GIC 5
+GOT 5
+GSP 5
+HEL 5
+HUN 5
+HÄL 5
+IDE 5
+IKT 5
+ILT 5
+IND 5
+IST 5
+JÄL 5
+KAL 5
+KIL 5
+KNA 5
+KRI 5
+KUM 5
+LED 5
+LIN 5
+LST 5
+MYN 5
+NEJ 5
+NSN 5
+NTL 5
+OBL 5
+OKU 5
+OMF 5
+ORE 5
+PLO 5
+PNA 5
+PPN 5
+REL 5
+RER 5
+RET 5
+RIG 5
+RIT 5
+RKA 5
+RMA 5
+ROB 5
+ROR 5
+SKT 5
+SPL 5
+STI 5
+SÅG 5
+TAG 5
+TSA 5
+TUD 5
+TÄM 5
+UDE 5
+UTO 5
+VAN 5
+XTE 5
+YND 5
+YRA 5
+ÄLD 5
+ÄNK 5
+ÄRA 5
+ÄRE 5
+ÅTT 5
+ÖPP 5
+AGV 4
+ALY 4
+AMP 4
+AMV 4
+ANA 4
+APP 4
+BAS 4
+BIL 4
+BIN 4
+DAR 4
+DEM 4
+DES 4
+DSK 4
+EDO 4
+EGE 4
+ERM 4
+ERO 4
+ESE 4
+ESÖ 4
+EXT 4
+FFA 4
+FRI 4
+FUN 4
+FYL 4
+GER 4
+GST 4
+GVA 4
+GÅN 4
+HUS 4
+IDA 4
+ILJ 4
+JAD 4
+KOL 4
+KRA 4
+KUN 4
+LAS 4
+LET 4
+LIT 4
+LLI 4
+LTN 4
+MAT 4
+MHÄ 4
+MIN 4
+MJO 4
+MTL 4
+MVÄ 4
+MÅN 4
+NHU 4
+NIC 4
+NLI 4
+NOG 4
+NSR 4
+NUT 4
+OKA 4
+OLO 4
+OMJ 4
+ORM 4
+ORS 4
+PPE 4
+PPO 4
+REC 4
+REG 4
+REV 4
+RFÖ 4
+ROT 4
+RTE 4
+RTS 4
+RUM 4
+RVA 4
+RÄV 4
+SAD 4
+SET 4
+SIT 4
+SJU 4
+SKL 4
+SMÅ 4
+SPR 4
+SRÄ 4
+SSE 4
+SUP 4
+SÄR 4
+TEK 4
+TEX 4
+TOM 4
+TSE 4
+TÄN 4
+TÅL 4
+TÅN 4
+UNH 4
+URE 4
+USE 4
+VAL 4
+YCK 4
+YLL 4
+ÄCK 4
+ÄRL 4
+ÄRS 4
+ÅND 4
+ÅRT 4
+ÖGO 4
+ÖKN 4
+ÖRB 4
+ÖRD 4
+ÖRV 4
+ACK 3
+ADS 3
+AGI 3
+AKO 3
+ALE 3
+AMB 3
+ANC 3
+ANL 3
+ASS 3
+ATA 3
+ATE 3
+ATM 3
+ATO 3
+AVA 3
+AVI 3
+BJÖ 3
+BOR 3
+CKE 3
+DAM 3
+DDE 3
+DFÖ 3
+DIP 3
+DLI 3
+DLÄ 3
+DOV 3
+EKN 3
+EKO 3
+EMO 3
+ENI 3
+EPR 3
+ERT 3
+ESU 3
+FAR 3
+FEK 3
+FEM 3
+FIC 3
+GDE 3
+GGL 3
+GIS 3
+GIT 3
+GLO 3
+GOD 3
+GSA 3
+GSV 3
+GÄL 3
+HJÄ 3
+HÄN 3
+HÖR 3
+ILK 3
+INU 3
+IPL 3
+ISS 3
+ITA 3
+IVA 3
+JAR 3
+JAT 3
+JUD 3
+KIC 3
+KLO 3
+KOG 3
+KOP 3
+KRE 3
+KRÄ 3
+KTA 3
+KUT 3
+KVA 3
+KÄN 3
+KÄR 3
+LAD 3
+LAG 3
+LAM 3
+LBA 3
+LDR 3
+LES 3
+LFÄ 3
+LIK 3
+LIR 3
+LKE 3
+LLD 3
+LLF 3
+LOM 3
+LOV 3
+LTA 3
+LTU 3
+LÄG 3
+LÄN 3
+MBA 3
+MDS 3
+MFÖ 3
+MIL 3
+MOR 3
+MPL 3
+MPO 3
+MÄR 3
+MÅK 3
+NAS 3
+NCE 3
+NDS 3
+NDÅ 3
+NGD 3
+NSV 3
+NTO 3
+ODE 3
+OGI 3
+OKO 3
+OMA 3
+OMP 3
+OPP 3
+OTE 3
+PEL 3
+PET 3
+PPA 3
+PRA 3
+PRI 3
+RAF 3
+RBI 3
+RDF 3
+REK 3
+REP 3
+RKS 3
+RMU 3
+ROL 3
+RTF 3
+RTI 3
+RUT 3
+RYM 3
+RÄF 3
+SAN 3
+SBY 3
+SED 3
+SEX 3
+SFÖ 3
+SIS 3
+SOC 3
+SPO 3
+SUL 3
+TFA 3
+TIF 3
+TIV 3
+TJU 3
+TOK 3
+TON 3
+TÅR 3
+UKT 3
+UST 3
+UTT 3
+VAM 3
+VDE 3
+VIT 3
+YMD 3
+YSE 3
+ÄFF 3
+ÄGG 3
+ÄKT 3
+ÄLP 3
+ÄRK 3
+ÄRM 3
+ÄVE 3
+ÅKA 3
+ÖRT 3
+ÖVD 3
+
+==================================================
+TRIPLE_LETTER_TRIGRAMS
+==================================================
+
+Count  : 0
+Unique : 0
+
+No results.
+
+==================================================
+DOUBLE_LETTER_TRIGRAMS
+==================================================
+
+Count  : 766
+Unique : 120
+
+ATT 75
+ETT 51
+ILL 39
+OMM 32
+MMU 27
+TTA 26
+LLE 25
+TTE 24
+ANN 20
+NNE 19
+MME 16
+ULL 15
+ALL 14
+NNA 14
+YGG 14
+ÄLL 14
+ITT 13
+LLA 12
+UPP 12
+ELL 10
+UMM 10
+ÄTT 10
+EPP 9
+FFE 9
+LLS 9
+MMA 9
+NNI 9
+AFF 8
+AMM 8
+GGA 8
+ÄNN 8
+INN 7
+OLL 7
+ENN 6
+GGN 6
+LLT 6
+SSA 6
+ESS 5
+PPN 5
+ÅTT 5
+ÖPP 5
+APP 4
+FFA 4
+LLI 4
+PPE 4
+PPO 4
+SSE 4
+YLL 4
+ASS 3
+DDE 3
+GGL 3
+ISS 3
+LLD 3
+LLF 3
+OPP 3
+PPA 3
+UTT 3
+ÄFF 3
+ÄGG 3
+EDD 2
+IGG 2
+LLB 2
+LLG 2
+LLM 2
+NNU 2
+OFF 2
+ONN 2
+PPG 2
+RRA 2
+RRE 2
+SST 2
+TTN 2
+TTO 2
+UNN 2
+YSS 2
+ÖLL 2
+ADD 1
+BBL 1
+DDA 1
+DDR 1
+DEE 1
+EEL 1
+EFF 1
+ERR 1
+FFN 1
+GGH 1
+GGR 1
+GGT 1
+IDD 1
+IMM 1
+KKL 1
+KKO 1
+LLR 1
+LLÄ 1
+LSS 1
+NKK 1
+NNS 1
+OGG 1
+ORR 1
+OSS 1
+PPH 1
+PPL 1
+PPS 1
+PPT 1
+RKK 1
+SSI 1
+SSN 1
+SSR 1
+TSS 1
+TTI 1
+UBB 1
+USS 1
+YTT 1
+ÄDD 1
+ÄMM 1
+ÄPP 1
+ÄRR 1
+ÅLL 1
+ÖRR 1
+ÖTT 1
+
+==================================================
+NON_DOUBLE_LETTER_TRIGRAMS
+==================================================
+
+Count  : 7218
+Unique : 1438
+
+ADE 94
+DET 78
+FÖR 78
+NDE 62
+ING 56
+TER 56
+OCH 51
+ERA 47
+AND 46
+DEN 45
+TIO 45
+ION 44
+VAR 44
+HAN 39
+SKA 39
+KOM 38
+ISK 37
+LIG 36
+NIN 36
+ZOG 35
+ATI 34
+LAN 34
+TIL 34
+NTE 33
+HAD 32
+NEN 32
+TEN 32
+MEN 31
+SAM 30
+DER 29
+ENS 29
+MED 29
+MUN 29
+VER 29
+HAR 26
+STA 26
+STE 26
+GEN 25
+ARA 24
+INT 24
+KAN 24
+RAD 24
+RNA 24
+NGE 23
+SOM 23
+UND 23
+ANS 22
+ONE 22
+ANT 21
+BLI 21
+NSK 21
+RAN 21
+RAT 21
+ÖRA 21
+DEL 20
+MAN 20
+MAR 20
+SAT 20
+ARE 19
+KOR 19
+ORT 19
+TAN 19
+TRE 19
+AKT 18
+BES 18
+ERS 18
+HET 18
+KAR 18
+SÖK 18
+ARI 17
+ECK 17
+ENT 17
+GAR 17
+ISA 17
+KTI 17
+TOR 17
+ALA 16
+BLE 16
+ETA 16
+FRÅ 16
+LER 16
+NAL 16
+NGS 16
+ORD 16
+SKU 16
+TIS 16
+VIL 16
+ÖVE 16
+BEH 15
+DRA 15
+EHÖ 15
+ETE 15
+GÖR 15
+ICK 15
+IGA 15
+JAG 15
+KET 15
+KUL 15
+NGA 15
+NIS 15
+NTA 15
+NÅG 15
+PAR 15
+PLA 15
+PRO 15
+RIN 15
+RST 15
+VAD 15
+BYG 14
+CKA 14
+ELE 14
+HÖV 14
+KON 14
+MET 14
+RES 14
+SEN 14
+TAD 14
+VEN 14
+ÖRS 14
+ARK 13
+BÖR 13
+DAG 13
+DAN 13
+EDA 13
+FOR 13
+HUR 13
+IGT 13
+ITI 13
+MER 13
+NAD 13
+OCK 13
+RED 13
+TRÄ 13
+YST 13
+ÄND 13
+BLA 12
+IKA 12
+LIP 12
+LUT 12
+MOT 12
+MÄN 12
+NTR 12
+NÄR 12
+ONS 12
+ONT 12
+RJA 12
+SLU 12
+TEL 12
+ÅNG 12
+ÖKA 12
+ÖRJ 12
+ANE 11
+GHE 11
+GRA 11
+IAN 11
+ITE 11
+IVI 11
+KER 11
+KNI 11
+LAT 11
+NDR 11
+REN 11
+RGA 11
+RIA 11
+RSK 11
+SKE 11
+SKR 11
+SVA 11
+VEC 11
+AMT 10
+ANK 10
+BET 10
+DIG 10
+DIT 10
+ELA 10
+FÄR 10
+GON 10
+IGH 10
+KAP 10
+KTE 10
+LIS 10
+NET 10
+NKE 10
+PER 10
+RDE 10
+SIG 10
+SKO 10
+STO 10
+SVE 10
+SYS 10
+TEM 10
+TID 10
+TLI 10
+UNG 10
+ÄST 10
+CIV 9
+END 9
+ESL 9
+FTE 9
+FÅR 9
+GAL 9
+GAN 9
+ILI 9
+KAD 9
+KEP 9
+LEM 9
+NAT 9
+ORG 9
+ORN 9
+RKE 9
+SER 9
+STÅ 9
+TAT 9
+UNA 9
+UNE 9
+UTE 9
+VÄL 9
+VÅR 9
+ÄMN 9
+ÅGA 9
+API 8
+ARN 8
+ATS 8
+DNI 8
+DÄR 8
+EDI 8
+EFT 8
+ELS 8
+ENA 8
+ERI 8
+ERK 8
+EXP 8
+FIK 8
+HÄR 8
+JOR 8
+KLA 8
+KLI 8
+LAK 8
+LDE 8
+LEN 8
+LOG 8
+LYS 8
+MÅS 8
+NAN 8
+NER 8
+PED 8
+PIT 8
+RAR 8
+RÄD 8
+RÄT 8
+RÅG 8
+RÅN 8
+SKI 8
+TAL 8
+TET 8
+TIG 8
+TNI 8
+TRA 8
+UTA 8
+VAT 8
+VID 8
+VIS 8
+XPE 8
+ÅGO 8
+ÅGR 8
+ÅST 8
+ÅTE 8
+ÖRE 8
+BER 7
+EFÄ 7
+ERN 7
+EST 7
+ETS 7
+FRA 7
+GAD 7
+GAT 7
+GEF 7
+IGE 7
+INA 7
+KAF 7
+KAT 7
+KEN 7
+LOC 7
+LSE 7
+LÅN 7
+MND 7
+MÖT 7
+NDI 7
+NDL 7
+NOM 7
+NSÖ 7
+NUM 7
+NÄM 7
+NÄS 7
+POR 7
+RAM 7
+SIN 7
+STU 7
+STÄ 7
+TAK 7
+TAR 7
+TIT 7
+TUR 7
+UME 7
+VÄN 7
+ÄNT 7
+ABL 6
+ANI 6
+AST 6
+ATU 6
+BAR 6
+CKL 6
+CKO 6
+CKT 6
+EGA 6
+EKT 6
+EME 6
+ENO 6
+FYR 6
+GNA 6
+HON 6
+KAK 6
+LAR 6
+LEG 6
+LEV 6
+LÅT 6
+MOD 6
+NAR 6
+NDA 6
+NDN 6
+NST 6
+OTO 6
+PRE 6
+RAS 6
+RBE 6
+RDI 6
+RIV 6
+RKL 6
+RLI 6
+RSO 6
+RSÖ 6
+SNU 6
+SON 6
+STR 6
+TAB 6
+TEC 6
+TOG 6
+TRO 6
+TVE 6
+ULT 6
+UTS 6
+UTV 6
+VET 6
+ÄDE 6
+ÄNG 6
+ÄNS 6
+ÖNS 6
+ÖRK 6
+ÖTE 6
+AGS 5
+AKA 5
+ALT 5
+AMH 5
+AMO 5
+ARB 5
+ART 5
+BRA 5
+CER 5
+CKN 5
+DAT 5
+DIN 5
+DIS 5
+DOK 5
+EMA 5
+ERG 5
+FAT 5
+FÄL 5
+FÅT 5
+GIC 5
+GOT 5
+GSP 5
+HEL 5
+HUN 5
+HÄL 5
+IDE 5
+IKT 5
+ILT 5
+IND 5
+IST 5
+JÄL 5
+KAL 5
+KIL 5
+KNA 5
+KRI 5
+KUM 5
+LED 5
+LIN 5
+LST 5
+MYN 5
+NEJ 5
+NSN 5
+NTL 5
+OBL 5
+OKU 5
+OMF 5
+ORE 5
+PLO 5
+PNA 5
+REL 5
+RER 5
+RET 5
+RIG 5
+RIT 5
+RKA 5
+RMA 5
+ROB 5
+ROR 5
+SKT 5
+SPL 5
+STI 5
+SÅG 5
+TAG 5
+TSA 5
+TUD 5
+TÄM 5
+UDE 5
+UTO 5
+VAN 5
+XTE 5
+YND 5
+YRA 5
+ÄLD 5
+ÄNK 5
+ÄRA 5
+ÄRE 5
+AGV 4
+ALY 4
+AMP 4
+AMV 4
+ANA 4
+BAS 4
+BIL 4
+BIN 4
+DAR 4
+DEM 4
+DES 4
+DSK 4
+EDO 4
+EGE 4
+ERM 4
+ERO 4
+ESE 4
+ESÖ 4
+EXT 4
+FRI 4
+FUN 4
+FYL 4
+GER 4
+GST 4
+GVA 4
+GÅN 4
+HUS 4
+IDA 4
+ILJ 4
+JAD 4
+KOL 4
+KRA 4
+KUN 4
+LAS 4
+LET 4
+LIT 4
+LTN 4
+MAT 4
+MHÄ 4
+MIN 4
+MJO 4
+MTL 4
+MVÄ 4
+MÅN 4
+NHU 4
+NIC 4
+NLI 4
+NOG 4
+NSR 4
+NUT 4
+OKA 4
+OLO 4
+OMJ 4
+ORM 4
+ORS 4
+REC 4
+REG 4
+REV 4
+RFÖ 4
+ROT 4
+RTE 4
+RTS 4
+RUM 4
+RVA 4
+RÄV 4
+SAD 4
+SET 4
+SIT 4
+SJU 4
+SKL 4
+SMÅ 4
+SPR 4
+SRÄ 4
+SUP 4
+SÄR 4
+TEK 4
+TEX 4
+TOM 4
+TSE 4
+TÄN 4
+TÅL 4
+TÅN 4
+UNH 4
+URE 4
+USE 4
+VAL 4
+YCK 4
+ÄCK 4
+ÄRL 4
+ÄRS 4
+ÅND 4
+ÅRT 4
+ÖGO 4
+ÖKN 4
+ÖRB 4
+ÖRD 4
+ÖRV 4
+ACK 3
+ADS 3
+AGI 3
+AKO 3
+ALE 3
+AMB 3
+ANC 3
+ANL 3
+ATA 3
+ATE 3
+ATM 3
+ATO 3
+AVA 3
+AVI 3
+BJÖ 3
+BOR 3
+CKE 3
+DAM 3
+DFÖ 3
+DIP 3
+DLI 3
+DLÄ 3
+DOV 3
+EKN 3
+EKO 3
+EMO 3
+ENI 3
+EPR 3
+ERT 3
+ESU 3
+FAR 3
+FEK 3
+FEM 3
+FIC 3
+GDE 3
+GIS 3
+GIT 3
+GLO 3
+GOD 3
+GSA 3
+GSV 3
+GÄL 3
+HJÄ 3
+HÄN 3
+HÖR 3
+ILK 3
+INU 3
+IPL 3
+ITA 3
+IVA 3
+JAR 3
+JAT 3
+JUD 3
+KIC 3
+KLO 3
+KOG 3
+KOP 3
+KRE 3
+KRÄ 3
+KTA 3
+KUT 3
+KVA 3
+KÄN 3
+KÄR 3
+LAD 3
+LAG 3
+LAM 3
+LBA 3
+LDR 3
+LES 3
+LFÄ 3
+LIK 3
+LIR 3
+LKE 3
+LOM 3
+LOV 3
+LTA 3
+LTU 3
+LÄG 3
+LÄN 3
+MBA 3
+MDS 3
+MFÖ 3
+MIL 3
+MOR 3
+MPL 3
+MPO 3
+MÄR 3
+MÅK 3
+NAS 3
+NCE 3
+NDS 3
+NDÅ 3
+NGD 3
+NSV 3
+NTO 3
+ODE 3
+OGI 3
+OKO 3
+OMA 3
+OMP 3
+OTE 3
+PEL 3
+PET 3
+PRA 3
+PRI 3
+RAF 3
+RBI 3
+RDF 3
+REK 3
+REP 3
+RKS 3
+RMU 3
+ROL 3
+RTF 3
+RTI 3
+RUT 3
+RYM 3
+RÄF 3
+SAN 3
+SBY 3
+SED 3
+SEX 3
+SFÖ 3
+SIS 3
+SOC 3
+SPO 3
+SUL 3
+TFA 3
+TIF 3
+TIV 3
+TJU 3
+TOK 3
+TON 3
+TÅR 3
+UKT 3
+UST 3
+VAM 3
+VDE 3
+VIT 3
+YMD 3
+YSE 3
+ÄKT 3
+ÄLP 3
+ÄRK 3
+ÄRM 3
+ÄVE 3
+ÅKA 3
+ÖRT 3
+ÖVD 3
+ADI 2
+ADR 2
+AFI 2
+AGE 2
+AHA 2
+AKE 2
+ALD 2
+ALJ 2
+ALR 2
+AML 2
+AMN 2
+ANV 2
+ARF 2
+BAK 2
+BAN 2
+BIO 2
+BJU 2
+BLO 2
+BRE 2
+BÄN 2
+BÄS 2
+CEN 2
+CEP 2
+CES 2
+CIA 2
+CIS 2
+CKS 2
+DAD 2
+DGÅ 2
+DIE 2
+DLA 2
+DNA 2
+DOC 2
+DOG 2
+DRE 2
+DRI 2
+DSF 2
+DSN 2
+ECE 2
+ECI 2
+EDV 2
+EFO 2
+ELT 2
+EMH 2
+ENE 2
+EPA 2
+EPT 2
+ERV 2
+ERÄ 2
+ETI 2
+ETR 2
+ETY 2
+EVE 2
+FAS 2
+FIE 2
+FLE 2
+FON 2
+FUL 2
+GAS 2
+GEM 2
+GEO 2
+GET 2
+GJO 2
+GLA 2
+GÅR 2
+HIT 2
+HÖL 2
+IAL 2
+IDI 2
+IDS 2
+IER 2
+IFI 2
+IFT 2
+ILD 2
+IMP 2
+INB 2
+INK 2
+IOL 2
+IVE 2
+IVÅ 2
+JAH 2
+JEK 2
+JER 2
+JON 2
+JUG 2
+JUS 2
+JUT 2
+JÄR 2
+JÖR 2
+KSE 2
+KSÅ 2
+KTP 2
+KTR 2
+KVÄ 2
+KÖR 2
+LAP 2
+LEF 2
+LEK 2
+LIL 2
+LJA 2
+LJE 2
+LJO 2
+LJU 2
+LMÄ 2
+LOK 2
+LPE 2
+LRU 2
+LSA 2
+LSB 2
+LTI 2
+LVE 2
+LÄR 2
+LÄS 2
+LÅG 2
+LÖS 2
+MEL 2
+MFA 2
+MHU 2
+MLA 2
+MPA 2
+MRÅ 2
+MUL 2
+MUS 2
+MÄK 2
+NAM 2
+NBJ 2
+NEL 2
+NIK 2
+NIV 2
+NKA 2
+NKT 2
+NSA 2
+NSD 2
+NSP 2
+NSU 2
+NSY 2
+NTI 2
+NVÄ 2
+OCE 2
+OCI 2
+OGÖ 2
+OJE 2
+OLI 2
+OMR 2
+ONA 2
+ORA 2
+OTR 2
+OVI 2
+PEN 2
+PGI 2
+PLE 2
+PON 2
+PTI 2
+RAK 2
+RAL 2
+RAV 2
+RDN 2
+RGI 2
+RGO 2
+RIK 2
+RIS 2
+RMI 2
+ROC 2
+ROJ 2
+ROV 2
+RSI 2
+RTA 2
+RUS 2
+RÄC 2
+RÄK 2
+RÄN 2
+RÅD 2
+RÅK 2
+RÖR 2
+SAK 2
+SBE 2
+SDA 2
+SEK 2
+SEL 2
+SFÄ 2
+SIK 2
+SIO 2
+SJÄ 2
+SMA 2
+SMO 2
+SNI 2
+SNÄ 2
+SOL 2
+SPE 2
+STY 2
+SVÅ 2
+SÄG 2
+SÄK 2
+SÄT 2
+TAC 2
+TAS 2
+TJÄ 2
+TME 2
+TOD 2
+TPE 2
+TRU 2
+TSB 2
+TSF 2
+TSÄ 2
+TUM 2
+TVÅ 2
+TYC 2
+TYD 2
+TYR 2
+TYS 2
+TÄC 2
+TÄL 2
+UDI 2
+UGO 2
+ULE 2
+UNS 2
+UNT 2
+UTF 2
+UTL 2
+UTR 2
+VAK 2
+VEM 2
+VIN 2
+VÄR 2
+VÄX 2
+VÅE 2
+YRE 2
+YTA 2
+ÄGA 2
+ÄKE 2
+ÄLT 2
+ÄLV 2
+ÄRF 2
+ÄRG 2
+ÄRN 2
+ÅDE 2
+ÅER 2
+ÅLA 2
+ÅLI 2
+ÅNA 2
+ADÅ 1
+AGA 1
+AGT 1
+AKL 1
+AKN 1
+ALS 1
+AMA 1
+AME 1
+AMÅ 1
+AMÖ 1
+ANF 1
+ANG 1
+APA 1
+APL 1
+APS 1
+ARD 1
+ARG 1
+ARJ 1
+ARM 1
+ASB 1
+ASE 1
+ASÖ 1
+ATR 1
+AVG 1
+AVS 1
+AXE 1
+BEK 1
+BEM 1
+BIB 1
+BLÄ 1
+BLÅ 1
+BOK 1
+BRY 1
+BRÄ 1
+BUL 1
+BUR 1
+BYR 1
+BÄR 1
+CIP 1
+DAS 1
+DBO 1
+DIA 1
+DIK 1
+DIR 1
+DIV 1
+DJU 1
+DKÄ 1
+DLÖ 1
+DRO 1
+DRÄ 1
+DSB 1
+DSM 1
+DSP 1
+DUK 1
+DVE 1
+DVI 1
+DÅL 1
+DÖR 1
+EBI 1
+EBR 1
+EBÄ 1
+EDB 1
+EDE 1
+EDG 1
+EDN 1
+EDR 1
+EGL 1
+EGN 1
+EGÅ 1
+EHA 1
+EHU 1
+EIN 1
+EKE 1
+EKU 1
+EKV 1
+EKY 1
+ELB 1
+ELN 1
+ELV 1
+ENK 1
+ENU 1
+EOL 1
+EOT 1
+ERE 1
+ERF 1
+ERH 1
+ERL 1
+ERP 1
+ESA 1
+ESK 1
+ESO 1
+ESP 1
+ETÄ 1
+EVL 1
+FAN 1
+FEB 1
+FEI 1
+FEN 1
+FIN 1
+FIS 1
+FJO 1
+FJÄ 1
+FLA 1
+FLI 1
+FNI 1
+FRE 1
+FRU 1
+FTN 1
+FUK 1
+FÖL 1
+FÖN 1
+GAM 1
+GEL 1
+GES 1
+GIF 1
+GIL 1
+GIN 1
+GIP 1
+GIV 1
+GLE 1
+GLI 1
+GLÖ 1
+GNI 1
+GNT 1
+GRÄ 1
+GRÖ 1
+GSB 1
+GSC 1
+GSF 1
+GSM 1
+GÄN 1
+GÄR 1
+GÅE 1
+HAL 1
+HEJ 1
+HEN 1
+HER 1
+HIS 1
+HOL 1
+HOP 1
+HUV 1
+HÅL 1
+HÖG 1
+HÖJ 1
+IAM 1
+IBL 1
+ICE 1
+IGN 1
+IHE 1
+IHO 1
+IKE 1
+ILA 1
+ILE 1
+ILV 1
+IMI 1
+INC 1
+INF 1
+INL 1
+INS 1
+IOF 1
+IOT 1
+IPR 1
+IRA 1
+IRE 1
+ISD 1
+ISN 1
+ITN 1
+ITU 1
+IVB 1
+IVN 1
+IVS 1
+JAN 1
+JAV 1
+JDE 1
+JLI 1
+JOC 1
+JUL 1
+JUP 1
+JÄN 1
+JÖD 1
+KBÄ 1
+KEL 1
+KLE 1
+KLÄ 1
+KOF 1
+KOK 1
+KRY 1
+KSA 1
+KTK 1
+KTU 1
+KUS 1
+KVE 1
+KVI 1
+KYL 1
+KYM 1
+KYR 1
+KYT 1
+LAX 1
+LEP 1
+LGÄ 1
+LGÅ 1
+LIC 1
+LIO 1
+LIV 1
+LJÖ 1
+LMA 1
+LMO 1
+LNE 1
+LNI 1
+LPA 1
+LRA 1
+LUG 1
+LYC 1
+LÄD 1
+LÄM 1
+LÄP 1
+LÖM 1
+LÖT 1
+MAK 1
+MAL 1
+MAS 1
+MBI 1
+MDE 1
+MES 1
+MHE 1
+MID 1
+MIT 1
+MLI 1
+MNA 1
+MNI 1
+MOS 1
+MPE 1
+MRA 1
+MTA 1
+MTI 1
+MYC 1
+MÅG 1
+MÅT 1
+MÖJ 1
+NCI 1
+NEB 1
+NED 1
+NEH 1
+NFL 1
+NFO 1
+NFU 1
+NFÖ 1
+NGL 1
+NIO 1
+NIT 1
+NKO 1
+NLE 1
+NOT 1
+NSB 1
+NSF 1
+NSM 1
+NTU 1
+NUB 1
+NUF 1
+NVI 1
+NÖD 1
+OBE 1
+ODI 1
+ODK 1
+ODU 1
+OEN 1
+OFY 1
+OGR 1
+OGS 1
+OKÄ 1
+OLE 1
+OLN 1
+OMB 1
+OME 1
+ONF 1
+ONI 1
+ONO 1
+ONÖ 1
+OPA 1
+OPU 1
+ORI 1
+OSF 1
+OTS 1
+OTÅ 1
+OVA 1
+OVE 1
+OVS 1
+OVT 1
+PAD 1
+PAT 1
+PHÖ 1
+PIR 1
+PLI 1
+PLY 1
+POL 1
+POP 1
+PRÅ 1
+PSA 1
+PSK 1
+PTÄ 1
+PUL 1
+PÄN 1
+PÄR 1
+PÅB 1
+PÅV 1
+RAC 1
+RAG 1
+RAP 1
+REH 1
+REM 1
+RFÄ 1
+RGE 1
+RHE 1
+RIE 1
+RIH 1
+RIM 1
+RJE 1
+RKB 1
+RKN 1
+RKU 1
+RKY 1
+RKÄ 1
+RLD 1
+RLE 1
+RME 1
+RMÅ 1
+RNI 1
+RNS 1
+RNU 1
+ROD 1
+ROE 1
+ROG 1
+RON 1
+ROP 1
+RPL 1
+RSF 1
+RTH 1
+RTJ 1
+RTL 1
+RTO 1
+RTY 1
+RUK 1
+RUV 1
+RVI 1
+RVÄ 1
+RYG 1
+RYS 1
+RÅL 1
+RÖN 1
+SAR 1
+SBA 1
+SBL 1
+SBU 1
+SCE 1
+SDI 1
+SEP 1
+SFA 1
+SFI 1
+SFO 1
+SHA 1
+SID 1
+SIL 1
+SJÖ 1
+SKN 1
+SKY 1
+SKÄ 1
+SLO 1
+SLÄ 1
+SLÖ 1
+SMU 1
+SNA 1
+SOR 1
+SPA 1
+SPI 1
+SPÄ 1
+SRU 1
+STJ 1
+STN 1
+STS 1
+SUC 1
+SUM 1
+SUN 1
+SUR 1
+SVÄ 1
+SYN 1
+SÄN 1
+SÅD 1
+SÅR 1
+SÖG 1
+TAP 1
+TEB 1
+TES 1
+TEV 1
+TFO 1
+TFÖ 1
+THA 1
+TIK 1
+TIM 1
+TJO 1
+TKO 1
+TLA 1
+TLÅ 1
+TMA 1
+TMO 1
+TNE 1
+TRÅ 1
+TSL 1
+TSM 1
+TSP 1
+TSU 1
+TSY 1
+TUA 1
+TUE 1
+TUG 1
+TUN 1
+TUS 1
+TYG 1
+TYP 1
+TÄR 1
+UAL 1
+UCK 1
+UDA 1
+UDL 1
+UEL 1
+UFT 1
+UGA 1
+UGN 1
+ULA 1
+ULM 1
+UNF 1
+UNI 1
+UPT 1
+URK 1
+URL 1
+URM 1
+URS 1
+URU 1
+USI 1
+USP 1
+USÅ 1
+UTM 1
+UVI 1
+UVU 1
+VBO 1
+VED 1
+VGÖ 1
+VIK 1
+VLI 1
+VNI 1
+VRI 1
+VSE 1
+VSH 1
+VSY 1
+VUD 1
+VÄG 1
+VÅH 1
+XEL 1
+XER 1
+YDE 1
+YDL 1
+YGA 1
+YGD 1
+YLT 1
+YMR 1
+YRK 1
+YRT 1
+YRÅ 1
+YSA 1
+YSN 1
+ÄDA 1
+ÄDG 1
+ÄKN 1
+ÄLS 1
+ÄMD 1
+ÄML 1
+ÄMP 1
+ÄNL 1
+ÄNV 1
+ÄRD 1
+ÄRI 1
+ÄRT 1
+ÄSA 1
+ÄVA 1
+ÄVS 1
+ÄXE 1
+ÄXT 1
+ÅBÖ 1
+ÅDA 1
+ÅEN 1
+ÅHU 1
+ÅKR 1
+ÅLE 1
+ÅLM 1
+ÅNE 1
+ÅRD 1
+ÅRI 1
+ÅRL 1
+ÅTA 1
+ÅVE 1
+ÖDI 1
+ÖGS 1
+ÖJD 1
+ÖJL 1
+ÖKE 1
+ÖKT 1
+ÖLJ 1
+ÖMT 1
+ÖNA 1
+ÖRL 1
+ÖRM 1
+ÖRN 1
+ÖRU 1
+ÖRÄ 1
+ÖSA 1
+ÖST 1
+ÖVR 1
+
